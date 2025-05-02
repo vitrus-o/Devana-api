@@ -1,0 +1,30 @@
+{
+    "superadmin": {
+        "id": "e48cddda-f3b8-5ca2-9fc5-28be55da99b0",
+        "fullName": "Shn Kerby C. Dolamos",
+        "hash": "$2b$12$FVWAZxvuoVw48h.jVyP5buXlCaq5vw6dAQIvKMkYUDCJIcGEiX9W.",
+        "userLevel": 3,
+        "createdAt": 1746167594
+    },
+    "administrator": {
+        "id": "b0882768-c19a-5659-8369-8eeb64db9c81",
+        "fullName": "Vee Emmanuel L. A\u00f1ora",
+        "hash": "$2b$12$3ssA6bdO2zSQj/WRpOUzj.ZMLHjdbP6U3LhJQgXi5/lH4LqBh6Z/K",
+        "userLevel": 2,
+        "createdAt": 1746167640
+    },
+    "moderator": {
+        "id": "45631eaa-f563-5dfa-a8b0-4cae1f5e75a2",
+        "fullName": "Jabez Rafael Abella",
+        "hash": "$2b$12$dtzTgTnYoPdMEgje3m1nKeFLq6uLR9kpiwLi6W0DsJ12iOqTnOnEm",
+        "userLevel": 1,
+        "createdAt": 1746167689
+    },
+    "user": {
+        "id": "86fb818d-9e92-5942-a62a-b31717e7a536",
+        "fullName": "Xyryll Jay C. Taneo",
+        "hash": "$2b$12$FgCoJT3IBDFqnHHKkU/UCedewuUMezM2azJKqgO4cGwJc5DRV5uUa",
+        "userLevel": 0,
+        "createdAt": 1746167725
+    }
+}
